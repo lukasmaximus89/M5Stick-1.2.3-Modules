@@ -1,0 +1,9 @@
+{
+    "start": "flow",
+    "mode": "internet",
+    "server": "Flow.m5stack.com", 
+    "wifi": {
+        "ssid": "",
+        "password": ""
+    }
+}
